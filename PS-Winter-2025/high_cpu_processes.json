@@ -1,0 +1,272 @@
+{
+    "Timestamp":  "2025-02-24 08:17:35",
+    "Event":  "CPU Usage High"
+},
+[
+    {
+        "ProcessName":  "audiodg",
+        "Id":  15268,
+        "CPU":  32.328125
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  2824,
+        "CPU":  449.296875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  3656,
+        "CPU":  201.359375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  3876,
+        "CPU":  28.078125
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  8144,
+        "CPU":  37.890625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  9716,
+        "CPU":  453.140625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10108,
+        "CPU":  157
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10700,
+        "CPU":  27.671875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10864,
+        "CPU":  11.484375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11068,
+        "CPU":  128.546875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11296,
+        "CPU":  126.859375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11456,
+        "CPU":  49.4375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11588,
+        "CPU":  12.984375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  12200,
+        "CPU":  53.921875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  12764,
+        "CPU":  24.015625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  13660,
+        "CPU":  61.71875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  18128,
+        "CPU":  52.71875
+    },
+    {
+        "ProcessName":  "Discord",
+        "Id":  13764,
+        "CPU":  21.703125
+    },
+    {
+        "ProcessName":  "Discord",
+        "Id":  14880,
+        "CPU":  59.234375
+    },
+    {
+        "ProcessName":  "explorer",
+        "Id":  7808,
+        "CPU":  63.703125
+    },
+    {
+        "ProcessName":  "powershell_ise",
+        "Id":  14052,
+        "CPU":  23.234375
+    },
+    {
+        "ProcessName":  "SearchApp",
+        "Id":  11208,
+        "CPU":  14.375
+    },
+    {
+        "ProcessName":  "steam",
+        "Id":  14040,
+        "CPU":  11.0625
+    },
+    {
+        "ProcessName":  "steamwebhelper",
+        "Id":  1640,
+        "CPU":  12.203125
+    },
+    {
+        "ProcessName":  "steamwebhelper",
+        "Id":  14420,
+        "CPU":  17.515625
+    },
+    {
+        "ProcessName":  "svchost",
+        "Id":  10164,
+        "CPU":  10.109375
+    }
+],
+{
+    "Timestamp":  "2025-02-24 08:18:06",
+    "Event":  "CPU Usage High"
+},
+[
+    {
+        "ProcessName":  "audiodg",
+        "Id":  15268,
+        "CPU":  33.109375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  2824,
+        "CPU":  451.953125
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  3656,
+        "CPU":  201.421875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  3876,
+        "CPU":  28.078125
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  8144,
+        "CPU":  37.90625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  9716,
+        "CPU":  464.765625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10108,
+        "CPU":  157
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10700,
+        "CPU":  28.40625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  10864,
+        "CPU":  11.484375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11068,
+        "CPU":  128.609375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11296,
+        "CPU":  128.71875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11456,
+        "CPU":  50.953125
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  11588,
+        "CPU":  13
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  12200,
+        "CPU":  55.46875
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  12764,
+        "CPU":  24.15625
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  13660,
+        "CPU":  61.734375
+    },
+    {
+        "ProcessName":  "chrome",
+        "Id":  18128,
+        "CPU":  52.796875
+    },
+    {
+        "ProcessName":  "Discord",
+        "Id":  13764,
+        "CPU":  21.9375
+    },
+    {
+        "ProcessName":  "Discord",
+        "Id":  14880,
+        "CPU":  59.40625
+    },
+    {
+        "ProcessName":  "explorer",
+        "Id":  7808,
+        "CPU":  64.03125
+    },
+    {
+        "ProcessName":  "powershell_ise",
+        "Id":  14052,
+        "CPU":  24.890625
+    },
+    {
+        "ProcessName":  "SearchApp",
+        "Id":  11208,
+        "CPU":  14.375
+    },
+    {
+        "ProcessName":  "steam",
+        "Id":  14040,
+        "CPU":  11.078125
+    },
+    {
+        "ProcessName":  "steamwebhelper",
+        "Id":  1640,
+        "CPU":  12.203125
+    },
+    {
+        "ProcessName":  "steamwebhelper",
+        "Id":  14420,
+        "CPU":  17.578125
+    },
+    {
+        "ProcessName":  "svchost",
+        "Id":  10164,
+        "CPU":  10.140625
+    }
+],

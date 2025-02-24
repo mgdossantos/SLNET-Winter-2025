@@ -1,0 +1,20 @@
+Reflection Questions & Answers
+1. How would you optimize this script to reduce CPU/memory usage?
+
+- Reduce the monitoring frequency (e.g., every 60 seconds instead of 30).
+- Limit the number of processes fetched by Get-Process by applying filters before fetching data.
+- Use Measure-Object to check if new logs need to be written instead of appending unconditionally.
+- Run the script as a background job using Start-Job instead of an infinite while ($true) loop.
+
+2. How would you integrate an alert system to notify admins when CPU usage is too high?
+
+- Send an email alert using Send-MailMessage when a process exceeds a CPU threshold.
+- Use Windows Event Logs with Write-EventLog to track high CPU processes.
+- Implement real-time desktop notifications with New-BurntToastNotification.
+
+3. How can this script be adapted for a cloud-based network infrastructure?
+
+- Use Azure Monitor to log process/network metrics instead of local JSON files.
+- Deploy the script as an Azure Automation Runbook for centralized execution.
+- Store logs in a cloud database (Azure Cosmos DB, AWS DynamoDB) instead of JSON files.
+- Integrate with AWS CloudWatch or Azure Log Analytics for network monitoring.

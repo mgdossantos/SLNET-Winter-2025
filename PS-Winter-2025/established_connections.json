@@ -1,0 +1,446 @@
+{
+    "Timestamp":  "2025-02-24 08:19:54",
+    "Event":  "Network"
+},
+[
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50978,
+        "RemoteAddress":  "54.163.63.91",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50977,
+        "RemoteAddress":  "13.89.179.13",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50976,
+        "RemoteAddress":  "23.43.243.27",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50975,
+        "RemoteAddress":  "142.250.69.138",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50974,
+        "RemoteAddress":  "52.123.185.202",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50971,
+        "RemoteAddress":  "52.109.92.10",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50967,
+        "RemoteAddress":  "52.123.128.14",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50963,
+        "RemoteAddress":  "142.251.163.84",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50951,
+        "RemoteAddress":  "13.91.222.61",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50922,
+        "RemoteAddress":  "162.159.130.234",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50781,
+        "RemoteAddress":  "52.112.87.145",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50767,
+        "RemoteAddress":  "140.82.113.26",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50750,
+        "RemoteAddress":  "52.111.230.35",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50699,
+        "RemoteAddress":  "52.112.84.157",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50681,
+        "RemoteAddress":  "52.112.84.184",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50594,
+        "RemoteAddress":  "31.13.80.8",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50593,
+        "RemoteAddress":  "31.13.80.52",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50592,
+        "RemoteAddress":  "31.13.80.52",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50591,
+        "RemoteAddress":  "31.13.80.6",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50530,
+        "RemoteAddress":  "208.103.161.1",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49946,
+        "RemoteAddress":  "192.168.2.12",
+        "RemotePort":  8009,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49943,
+        "RemoteAddress":  "142.251.167.188",
+        "RemotePort":  5228,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49920,
+        "RemoteAddress":  "31.13.80.53",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49910,
+        "RemoteAddress":  "192.168.2.14",
+        "RemotePort":  8009,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49852,
+        "RemoteAddress":  "162.254.192.98",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49802,
+        "RemoteAddress":  "35.186.224.45",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49789,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49761,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49788,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49763,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49763,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49788,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49761,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49789,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49679,
+        "RemoteAddress":  "172.172.255.217",
+        "RemotePort":  443,
+        "State":  5
+    }
+],
+{
+    "Timestamp":  "2025-02-24 08:20:24",
+    "Event":  "Network"
+},
+[
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50979,
+        "RemoteAddress":  "52.4.204.21",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50978,
+        "RemoteAddress":  "54.163.63.91",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50977,
+        "RemoteAddress":  "13.89.179.13",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50976,
+        "RemoteAddress":  "23.43.243.27",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50975,
+        "RemoteAddress":  "142.250.69.138",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50974,
+        "RemoteAddress":  "52.123.185.202",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50971,
+        "RemoteAddress":  "52.109.92.10",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50967,
+        "RemoteAddress":  "52.123.128.14",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50951,
+        "RemoteAddress":  "13.91.222.61",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50922,
+        "RemoteAddress":  "162.159.130.234",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50781,
+        "RemoteAddress":  "52.112.87.145",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50767,
+        "RemoteAddress":  "140.82.113.26",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50750,
+        "RemoteAddress":  "52.111.230.35",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50699,
+        "RemoteAddress":  "52.112.84.157",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50681,
+        "RemoteAddress":  "52.112.84.184",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50594,
+        "RemoteAddress":  "31.13.80.8",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50593,
+        "RemoteAddress":  "31.13.80.52",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50592,
+        "RemoteAddress":  "31.13.80.52",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50591,
+        "RemoteAddress":  "31.13.80.6",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  50530,
+        "RemoteAddress":  "208.103.161.1",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49946,
+        "RemoteAddress":  "192.168.2.12",
+        "RemotePort":  8009,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49943,
+        "RemoteAddress":  "142.251.167.188",
+        "RemotePort":  5228,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49920,
+        "RemoteAddress":  "31.13.80.53",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49910,
+        "RemoteAddress":  "192.168.2.14",
+        "RemotePort":  8009,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49852,
+        "RemoteAddress":  "162.254.192.98",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49802,
+        "RemoteAddress":  "35.186.224.45",
+        "RemotePort":  443,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49789,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49761,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49788,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49763,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49763,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49788,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "127.0.0.1",
+        "LocalPort":  49761,
+        "RemoteAddress":  "127.0.0.1",
+        "RemotePort":  49789,
+        "State":  5
+    },
+    {
+        "LocalAddress":  "192.168.2.11",
+        "LocalPort":  49679,
+        "RemoteAddress":  "172.172.255.217",
+        "RemotePort":  443,
+        "State":  5
+    }
+],

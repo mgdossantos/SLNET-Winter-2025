@@ -1,0 +1,2 @@
+﻿$connections = Get-NetTCPConnection | Select-Object LocalAddress, LocalPort, State
+$connections | ConvertTo-Json | Out-File "C:\Users\tchel\Documents\GitHub\SLNET--WINTER-2025\SLNET-Winter-2025\PS-Winter-2025\network-connections.json"
