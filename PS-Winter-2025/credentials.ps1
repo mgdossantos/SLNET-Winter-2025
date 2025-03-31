@@ -3,4 +3,5 @@ $cred = Get-Credential
 $cred | Export-Clixml -Path "cred.xml"
 
 #Import Credentials Securely
-$cred = Import-Clixml -Path "cred.xml"
+$cred2 = Import-Clixml -Path "cred.xml"
+Write-Host "credentials: $cred2"
